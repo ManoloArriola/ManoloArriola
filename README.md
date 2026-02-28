@@ -1,65 +1,88 @@
-# Manolo Arriola
+<p align="center">
+  <img src=Banner Manolo.png width="100%" />
+</p>
 
-Project & Administrative Manager | Data Science Student | Python Developer  
-Guatemala  
+<h1 align="center">Manolo Arriola</h1>
 
-Bridging Business Strategy, Data Analytics, and Technology to design structured, scalable solutions.
+<p align="center">
+  🚀 Technical Project Manager | 📊 Data & Backend Developer | 📈 Business Analytics
+</p>
 
----
-
-## Professional Focus
-
-- Operational Risk Analysis
-- Data-Driven Decision Making
-- Process Automation
-- Financial Modeling
-- API Development (Flask)
-- Database Design (SQLite)
+<p align="center">
+  Transforming data and processes into structured, scalable decisions.
+</p>
 
 ---
 
-## Core Technical Stack
+## 🧠 About Me
 
-Python  
-Flask  
-SQLite  
-Pandas  
-Power BI  
-Excel (Advanced Modeling)  
-Git & GitHub  
+🔹 10+ years leading operational teams (150+ personnel)  
+🔹 Bridging strategy, analytics, and backend architecture  
+🔹 Building decision-support systems powered by data  
 
 ---
 
-## Featured Projects
+## ⚙️ Core Capabilities
 
-### Operational Risk Analyzer
-Data-driven tool to simulate risk exposure scenarios and support executive-level decisions.
-
-### REST API – Fertilizer Catalog
-Flask-based API with SQLite backend demonstrating query filtering, database structure, and endpoint design.
-
-### Financial Projection Engine
-CLI-based financial simulator calculating ROI, margin scenarios, and business viability metrics.
-
----
-
-## Leadership & Business Integration
-
-10+ years in institutional negotiation, operational management, and strategic planning.  
-Experience leading teams of 150+ personnel in structured environments.
+🧩 Technical Project Leadership  
+📊 Data-Driven Decision Support  
+📉 Financial & ROI Modeling  
+🔍 Operational Risk Simulation  
+🌐 REST API Development (Flask)  
+🗄️ Database Architecture (SQLite / SQL)  
+🔄 Process Automation  
 
 ---
 
-## Current Development Path
+## 🛠 Technical Stack
 
-- Advanced SQL
-- Backend Architecture
-- Data Engineering Foundations
-- PMP Certification
+### 👨‍💻 Backend
+![Python](https://img.shields.io/badge/Python-Advanced-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?logo=flask)
+![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey?logo=sqlite)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Che_Arriola&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-Data-blue?logo=pandas)
+![Power BI](https://img.shields.io/badge/PowerBI-Analytics-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-orange?logo=postman)
+
 ---
 
-## Connect
+## 🏆 Certifications & Badges
 
-LinkedIn: [[Manolo-Arriola]](https://www.linkedin.com/in/manolo-arriola-alvizuris/)
+### Cisco Networking Academy
+
+<img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/python_essentials_1_50.png" width="120"/>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Operational Risk Analyzer
+Executive-level decision tool simulating exposure scenarios and quantifying operational vulnerabilities.
+
+### 🌐 REST API – Fertilizer Catalog
+Flask + SQLite backend implementing query filtering and modular endpoint architecture.
+
+### 💰 Financial Projection Engine
+CLI-based simulator calculating ROI, margins, and cash-flow scenarios.
+
+---
+
+## 🎯 Current Focus
+
+🔹 Advanced SQL  
+🔹 Backend Architecture Patterns  
+🔹 Data Engineering Foundations  
+🔹 PMP Certification  
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=Che_Arriola&color=blue)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Che_Arriola&theme=dark&exclude_days=Sun%2CSat" />
+</p>
