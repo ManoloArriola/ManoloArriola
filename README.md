@@ -1,16 +1,65 @@
-## Hi there 👋
+# Manolo Arriola
 
-<!--
-**ManoloArriola/ManoloArriola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Project & Administrative Manager | Data Science Student | Python Developer  
+Guatemala  
 
-Here are some ideas to get you started:
+Bridging Business Strategy, Data Analytics, and Technology to design structured, scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Professional Focus
+
+- Operational Risk Analysis
+- Data-Driven Decision Making
+- Process Automation
+- Financial Modeling
+- API Development (Flask)
+- Database Design (SQLite)
+
+---
+
+## Core Technical Stack
+
+Python  
+Flask  
+SQLite  
+Pandas  
+Power BI  
+Excel (Advanced Modeling)  
+Git & GitHub  
+
+---
+
+## Featured Projects
+
+### Operational Risk Analyzer
+Data-driven tool to simulate risk exposure scenarios and support executive-level decisions.
+
+### REST API – Fertilizer Catalog
+Flask-based API with SQLite backend demonstrating query filtering, database structure, and endpoint design.
+
+### Financial Projection Engine
+CLI-based financial simulator calculating ROI, margin scenarios, and business viability metrics.
+
+---
+
+## Leadership & Business Integration
+
+10+ years in institutional negotiation, operational management, and strategic planning.  
+Experience leading teams of 150+ personnel in structured environments.
+
+---
+
+## Current Development Path
+
+- Advanced SQL
+- Backend Architecture
+- Data Engineering Foundations
+- PMP Certification
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Che_Arriola&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+---
+
+## Connect
+
+LinkedIn: [[Manolo-Arriola]](https://www.linkedin.com/in/manolo-arriola-alvizuris/)
