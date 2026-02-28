@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=Banner Manolo.png width="100%" />
+  <img src= ManoloArriola/Banner_Manolo.png width="100%" />
 </p>
 
 <h1 align="center">Manolo Arriola</h1>
