@@ -25,11 +25,18 @@
   </a>
 </div>
 
-<p align="center" style="margin-top:14px;">
-  <img src="https://streak-stats.demolab.com?user=Che_Arriola&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" width="520" />
-</p>
-
 <hr/>
+
+
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://streak-stats.demolab.com?user=ManoloArriola&theme=dark&border_radius=9&exclude_days=Sun%2CSat&card_width=510" 
+      alt="GitHub Streak"
+    />
+  </a>
+</div>
 
 <!-- =========================
      EXECUTIVE SUMMARY
