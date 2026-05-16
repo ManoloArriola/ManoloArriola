@@ -107,6 +107,8 @@
   <a href="https://www.credly.com/badges/7d92084e-3f83-4eef-a381-0a8c3d2c2337/public_url" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="105" alt="Networking Academy Learn-A-Thon 2023"/>
   </a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e31e8ec-3362-41b1-b952-d2334cb7d5c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
   <a href="https://www.credly.com/badges/205a8386-4c29-42ea-b54f-4205ba992b4f/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="105" alt="Fundamentals of Predictive Project Management"/>
