@@ -8,35 +8,37 @@
 
 <h1 align="center">Manolo Arriola</h1>
 
-<p align="center" style="margin-top:-6px;">
-  🚀 <b>Technical Project Manager</b> &nbsp;•&nbsp; 📊 <b>Data & Backend Developer</b> &nbsp;•&nbsp; 📈 <b>Business Analytics</b><br/>
-  <span style="opacity:0.9;">Turning operational complexity into structured, data-driven systems.</span>
+<p align="center">
+  🚀 <b>Technical Project Manager</b> • 📊 <b>Data & Backend Developer</b> • 📈 <b>Business Analytics</b><br/>
+  <span style="opacity:0.9;">Turning operational complexity into structured, data‑driven systems.</span>
 </p>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:14px; flex-wrap:wrap; margin-top:10px;">
-  <a href="#-featured-projects" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-Featured_Projects-black?style=for-the-badge&logo=github" alt="Featured Projects"/>
+<p align="center">
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/Portfolio-Featured_Projects-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="#-stack-core" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Focus-Execution_%E2%86%92_Code_%E2%86%92_Impact-blue?style=for-the-badge" alt="Focus"/>
+  <a href="#-stack-core">
+    <img src="https://img.shields.io/badge/Focus-Execution_%E2%86%92_Code_%E2%86%92_Impact-blue?style=for-the-badge" />
   </a>
-  <a href="#-certifications" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Credentials-Verified-success?style=for-the-badge&logo=credly" alt="Credentials"/>
+  <a href="#-certifications">
+    <img src="https://img.shields.io/badge/Credentials-Verified-success?style=for-the-badge&logo=credly" />
   </a>
-</div>
+</p>
 
 <hr/>
 
+<!-- =========================
+     GITHUB STREAK
+     ========================= -->
 
-
-<div align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img 
       src="https://streak-stats.demolab.com?user=ManoloArriola&theme=dark&border_radius=9&exclude_days=Sun%2CSat&card_width=510" 
       alt="GitHub Streak"
     />
   </a>
-</div>
+</p>
 
 <!-- =========================
      EXECUTIVE SUMMARY
@@ -45,7 +47,7 @@
 <h2>✅ Executive Summary</h2>
 
 <ul>
-  <li><b>Hybrid Technical Leader:</b> I lead projects end-to-end and build the technical solution when execution requires code—not slides.</li>
+  <li><b>Hybrid Technical Leader:</b> I lead projects end‑to‑end and build the technical solution when execution requires code—not slides.</li>
   <li><b>Decision Systems:</b> risk + finance + operations turned into clear models, dashboards, and automation.</li>
   <li><b>Operational Credibility:</b> 10+ years leading structured teams (150+ personnel) and implementing reporting systems for leadership.</li>
 </ul>
@@ -53,31 +55,18 @@
 <hr/>
 
 <!-- =========================
-     VALUE DRIVERS (FAST SCAN)
+     VALUE DRIVERS
      ========================= -->
 
 <h2>🎯 Value Drivers</h2>
 
-<div style="display:flex; gap:18px; flex-wrap:wrap;">
-  <div style="min-width:240px;">
-    <b>Execution</b><br/>
-    • Scope → delivery<br/>
-    • Stakeholders & cadence<br/>
-    • Repeatable processes
-  </div>
-  <div style="min-width:240px;">
-    <b>Data</b><br/>
-    • KPI + dashboards<br/>
-    • Scenario modeling<br/>
-    • Decision clarity
-  </div>
-  <div style="min-width:240px;">
-    <b>Technology</b><br/>
-    • Flask APIs<br/>
-    • SQLite/SQL design<br/>
-    • Automation systems
-  </div>
-</div>
+<table>
+  <tr>
+    <td><b>Execution</b><br/>• Scope → delivery<br/>• Stakeholders & cadence<br/>• Repeatable processes</td>
+    <td><b>Data</b><br/>• KPI + dashboards<br/>• Scenario modeling<br/>• Decision clarity</td>
+    <td><b>Technology</b><br/>• Flask APIs<br/>• SQLite/SQL design<br/>• Automation systems</td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -87,35 +76,39 @@
 
 <h2 id="-stack-core">🛠 Stack (Core)</h2>
 
-<p><b>Backend:</b> Python • Flask • SQLite • REST • Postman<br/>
+<p>
+<b>Backend:</b> Python • Flask • SQLite • REST • Postman<br/>
 <b>Analytics:</b> Pandas • Power BI • Advanced Excel Modeling<br/>
-<b>Workflow:</b> Git • GitHub • VS Code</p>
+<b>Workflow:</b> Git • GitHub • VS Code
+</p>
 
 <hr/>
 
 <!-- =========================
-     CERTIFICATIONS (EXECUTIVE BAND)
+     CERTIFICATIONS
      ========================= -->
 
 <h2 id="-certifications">🏆 Certifications</h2>
 
-<p align="center" style="margin-top:-6px; opacity:0.9;">
+<p align="center" style="opacity:0.9;">
   Networking • Project Management • Python Development
 </p>
 
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:44px; flex-wrap:nowrap; padding:10px 0 6px;">
+<p align="center">
   <a href="https://www.credly.com/badges/7d92084e-3f83-4eef-a381-0a8c3d2c2337/public_url" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="105" alt="Networking Academy Learn-A-Thon 2023"/>
+    <img src="https://images.credly.com/size/680x680/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="105"/>
   </a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e31e8ec-3362-41b1-b952-d2334cb7d5c5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+  <a href="https://www.credly.com/badges/7e31e8ec-3362-41b1-b952-d2334cb7d5c5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/7e31e8ec-3362-41b1-b952-d2334cb7d5c5/image.png" width="105"/>
+  </a>
 
   <a href="https://www.credly.com/badges/205a8386-4c29-42ea-b54f-4205ba992b4f/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="105" alt="Fundamentals of Predictive Project Management"/>
+    <img src="https://images.credly.com/size/220x220/images/37f7183c-9a25-4c72-916d-0c21572f5875/image.png" width="105"/>
   </a>
 
-  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/python_essentials_1_50.png" width="105" alt="Python Essentials 1"/>
-</div>
+  <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/python_essentials_1_50.png" width="105"/>
+</p>
 
 <hr/>
 
@@ -126,30 +119,24 @@
 <h2 id="-featured-projects">🚀 Featured Projects</h2>
 
 <h3>📊 Operational Risk Analyzer</h3>
-<p>
-Decision-support tool that simulates risk exposure scenarios and clarifies operational vulnerability for leadership evaluation.
-</p>
+<p>Decision‑support tool that simulates risk exposure scenarios and clarifies operational vulnerability for leadership evaluation.</p>
 <ul>
   <li>Scenario modeling to compare exposures and controls</li>
   <li>Structured outputs for executive review</li>
 </ul>
 
 <h3>🌐 REST API — Fertilizer Catalog</h3>
-<p>
-Flask + SQLite API demonstrating filtering, structured endpoints, and database-backed queries.
-</p>
+<p>Flask + SQLite API demonstrating filtering, structured endpoints, and database‑backed queries.</p>
 <ul>
-  <li>Query-driven endpoints (brand/type/cost filters)</li>
+  <li>Query‑driven endpoints (brand/type/cost filters)</li>
   <li>Clean API design + backend structure</li>
 </ul>
 
 <h3>💰 Financial Projection Engine</h3>
-<p>
-CLI simulator for ROI, margin scenarios, and cash-flow projections under multiple assumptions.
-</p>
+<p>CLI simulator for ROI, margin scenarios, and cash‑flow projections under multiple assumptions.</p>
 <ul>
   <li>ROI + margin sensitivity analysis</li>
-  <li>Decision-ready outputs for viability review</li>
+  <li>Decision‑ready outputs for viability review</li>
 </ul>
 
 <hr/>
